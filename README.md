@@ -2,6 +2,7 @@
 
 Welcome to my personal portfolio website! This project showcases who I am, what I do, and some of the key projects I've worked on. It's built using simple, clean, and responsive HTML, CSS, and JavaScript.
 
+![demo gif](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif)
 ---
 
 ## 👤 About the Developer
