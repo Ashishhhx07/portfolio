@@ -54,9 +54,9 @@ Welcome to my personal portfolio website! This project showcases who I am, what 
 
 ## 📬 Contact
 
-- 📧 Email: ashishranjan.dev@gmail.com  
+- 📧 Email: kishanashish2007@gmail.com  
 - 🐙 GitHub: [@Ashishhhx07](https://github.com/Ashishhhx07)  
-- 💼 LinkedIn: [Ashish Ranjan](https://linkedin.com/in/ashish-ranjan-dev)
+- 💼 LinkedIn: [Ashish Ranjan](https://linkedin.com/in/ashish-ranjanx01)
 
 ---
 
