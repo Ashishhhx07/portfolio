@@ -3,62 +3,64 @@
 Welcome to my personal portfolio website! This project showcases who I am, what I do, and some of the key projects I've worked on. It's built using simple, clean, and responsive HTML, CSS, and JavaScript.
 
 ![demo gif](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif)
+
 ---
 
-## 👤 About the Developer
+## 👨‍💻 About the Developer
 
-<img src="ashish.jpg" alt="Ashish Ranjan" width="140" style="border-radius: 12px; margin-right: 20px;" align="left" />
+<img src="ashish_readme.jpg" alt="Ashish Ranjan" width="140" style="border-radius: 12px; margin-right: 20px;" align="left" />
 
 **Ashish Ranjan**  
-🚀 Developer of this game  
-💬 "I believe in building simple tech that solves real-world public problems."  
-🔗 GitHub: [Ashishhhx07](https://github.com/Ashishhhx07)
+🚀 Developer of this portfolio  
+🎓 Passionate about Web Development, UI/UX, and building impactful digital products.  
+💡 Always curious to learn and explore new tech.
 
 <br clear="left" />
 
 ---
 
-## 🌐 Live Demo
+## 🌟 Projects Showcased
 
-➡️ [Visit Portfolio](https://github.com/Ashishhhx07/portfolio.git)  
-*(Replace with your actual GitHub Pages link after publishing)*
+### 🚆 RailFlow  
+**QR-Based Ticketing & Crowd Management System**  
+🛠️ A smart ticketing and crowd management web app for Indian Railways.  
+🔗 [View on GitHub](https://github.com/Ashishhhx07/railflow)
+
+---
+
+### 🎩 Card Mentalism  
+**Digital Card Magic and Mentalism Tricks**  
+🃏 A fun mentalism web app with clean UI/UX and custom logic.  
+🔗 [View on GitHub](https://github.com/Ashishhhx07/card-mentalism)
+
+---
+
+### 🧠 Flip The Card  
+**Interactive Card-Matching Game**  
+🎮 Built with HTML, CSS, JavaScript featuring smooth UI and animations.  
+🔗 [View on GitHub](https://github.com/Ashishhhx07/UI---Flip-Card-)
 
 ---
 
 ## 🛠️ Tech Stack
 
-- 💻 HTML5
-- 🎨 CSS3
-- ⚙️ JavaScript
-- 🧠 UI/UX Design
-
----
-
-## 📌 Featured Projects
-
-### 🚆 RailFlow
-**QR-Based Ticketing & Crowd Management System**  
-🔗 [View on GitHub](https://github.com/Ashishhhx07/railflow)
-
-### 🎩 Card Mentalism
-**A web app for performing digital card magic tricks.**  
-🔗 [View on GitHub](https://github.com/Ashishhhx07/card-mentalism)
-
-### 🃏 Flip The Card
-**A fun and interactive card-matching game with animations.**  
-🔗 [View on GitHub](https://github.com/Ashishhhx07/UI---Flip-Card-)
+- HTML5  
+- CSS3  
+- JavaScript  
+- Python  
+- UI/UX Design  
 
 ---
 
 ## 📬 Contact
 
-- Email: kishanashish2007@gmail.com
-- GitHub: [@Ashishhhx07](https://github.com/Ashishhhx07)
-- LinkedIn: [Ashish Ranjan](https://linkedin.com/in/ashish-ranjan-dev)
+- 📧 Email: ashishranjan.dev@gmail.com  
+- 🐙 GitHub: [@Ashishhhx07](https://github.com/Ashishhhx07)  
+- 💼 LinkedIn: [Ashish Ranjan](https://linkedin.com/in/ashish-ranjan-dev)
 
 ---
 
 ## 📃 License
 
-This project is licensed under the MIT License - feel free to use, fork, and improve it.
+This project is licensed under the MIT License. Feel free to use, fork, and improve it.
 
