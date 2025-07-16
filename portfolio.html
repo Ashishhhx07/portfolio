@@ -199,6 +199,7 @@
 
 <nav>
   <a href="#about">About</a>
+  <a href="#education ">🎓 Academic Qualifications</a>
   <a href="#projects">Projects</a>
   <a href="#skills">Skills</a>
   <a href="#certifications">Certifications</a>
@@ -221,6 +222,80 @@
       </div>
     </div>
   </section>
+
+  <section id="education">
+  <h2>🎓 Academic Qualifications</h2>
+
+  <style>
+    /* Inline CSS for Academic Cards */
+    .education-cards {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+      margin-top: 30px;
+    }
+
+    .edu-card {
+      background-color: #f9f9f9;
+      border: 2px solid #ffcc00;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      padding: 20px;
+      width: 300px;
+      transition: transform 0.3s ease;
+    }
+
+    .edu-card:hover {
+      transform: translateY(-8px);
+    }
+
+    .edu-card h3 {
+      margin-bottom: 10px;
+      font-size: 18px;
+      color: #222;
+    }
+
+    .edu-card p {
+      margin: 4px 0;
+      font-size: 15px;
+      color: #444;
+    }
+
+    /* Dark Mode Support */
+    body.dark-mode .edu-card {
+      background-color: #1e1e1e;
+      border-color: #ffc107;
+      color: #eee;
+    }
+
+    body.dark-mode .edu-card p {
+      color: #ccc;
+    }
+  </style>
+
+  <div class="education-cards">
+
+    <div class="edu-card">
+      <h3>🎓 B.Tech in Computer Science and Engineering</h3>
+      <p><strong>C.V. Raman Global University (CGU), Jharkhand</strong></p>
+      <p>2025 – 2029</p>
+    </div>
+
+    <div class="edu-card">
+      <h3>🏫 Senior Secondary (Class 12)</h3>
+      <p><strong>Agrasen DAV Public School, Ramgarh</strong></p>
+      <p>2023 – 2025</p>
+    </div>
+
+    <div class="edu-card">
+      <h3>🏫 Secondary (Class 10)</h3>
+      <p><strong>Sri Krishna Vidya Mandir, Ramgarh Cantt</strong></p>
+      <p>2020 – 2023</p>
+    </div>
+
+  </div>
+</section>
 
   <section id="projects">
     <h2>Projects</h2>
@@ -245,6 +320,7 @@
 </div>
 
   </section>
+
 
   <section id="skills">
     <h2>Skills</h2>
@@ -348,7 +424,6 @@ Means Clustering</h3>
 <footer>
   © 2025 Ashish Ranjan. All Rights Reserved.
 </footer>
-
 </body>
 </html>
 
